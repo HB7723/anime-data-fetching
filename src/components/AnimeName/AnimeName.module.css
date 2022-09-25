@@ -1,0 +1,39 @@
+.background {
+    min-width: 100vw;
+    min-height: 100vh;
+    background-color: #181818;
+    color: #F2F2F2;
+}
+
+.anime {
+    color: #F2F2F2;
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+    border-radius: 1rem;
+    margin: auto;
+    padding: 2rem;
+    color: #F2F2F2;
+    background-color: #8758FF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.image {
+    width: 15rem;
+    height: 15rem;
+    margin: 3rem;
+}
+
+.fact {
+    color: #F2F2F2;
+    width: 100%;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin: 0.75rem 0;
+    text-decoration: none;
+}

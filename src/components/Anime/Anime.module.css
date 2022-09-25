@@ -1,0 +1,42 @@
+.background {
+    min-width: 100vw;
+    min-height: 100vh;
+    background-color: #181818;
+    color: #F2F2F2;
+}
+
+.anime {
+    color: #F2F2F2;
+    text-align: center;
+}
+
+.animeImage {
+    width: 10rem;
+    height: 10rem;
+}
+
+.animeContainer {
+    background-color: #8758FF;
+    color: #F2F2F2;
+    width: 15rem;
+    height: 15rem;
+    border-radius: 1rem;
+    margin: 2rem 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration: none;
+}
+
+.animeName {
+    font-size: 1.8rem;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.cardContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
